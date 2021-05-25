@@ -7,4 +7,4 @@ Carrera: Tecnologías de la Información
 Turno: Matutino
 Docente: José Narvaez 
 Objetivo materia: desarrollar una aplicación web 
-Competencias: algun texto para rellenar 
+Competencias: algun texto para rellenar y que se visualice el cambio 
