@@ -6,3 +6,4 @@ Carrera: Tecnologías de la Información
 Área: Desarrollo de software multiplataforma
 Turno: Matutino
 Docente: José Narvaez 
+Objetivo materia: desarrollar una aplicación web 
